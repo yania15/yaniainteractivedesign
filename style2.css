@@ -1,0 +1,466 @@
+img {
+
+	width: 500px;
+}
+
+body {
+
+		background: radial-gradient(rebeccapurple, black);
+		display: flex;
+		justify-content: left;
+
+}
+
+div {	background-color: rebeccapurple;
+		max-width: 800px;
+}
+
+h1	{
+	 font-family: helvetica-neue, sans-serif;
+	 font-size: 120px;
+	 text-align: left;
+	 letter-spacing: -2px;
+	 line-height: 130px;
+	 color: orange;
+}
+
+h2 {
+	color: orange; 
+	font-family: helvetica-neue, sans-serif;
+	filter: blur 2px;
+}
+
+h1:hover {
+	color: blueviolet;ß
+	font-size: 140px;
+
+}
+
+#paragraph1 {
+
+	background-color: white;
+
+}
+
+#paragraph2 {
+	background-color: rebeccapurple;
+
+}
+
+#grunge {
+	background-color: blue;
+}
+
+.Areg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Breg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Creg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Dreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Ereg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Freg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+.Greg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Hreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Ireg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Jreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Kreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Lreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Mreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Nreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Oreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Preg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Qreg{
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Rreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Sreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Treg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Ureg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Vreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Wreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Xreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Yreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.Zreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.areg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.breg {font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.creg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.dreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.ereg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.freg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.greg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.hreg{
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.ireg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.jreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.kreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.lreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.mreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.nreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.oreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.preg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.qreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.rreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.sreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.treg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.ureg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.vreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.wreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.xreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.yreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:100px;
+	color:green;
+	font-size:100px;
+}
+
+.zreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:px;
+	color:green;
+	font-size:100px;
+}
+
+.onereg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:px;
+	color:green;
+	font-size:100px;
+}
+
+.tworeg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:px;
+	color:green;
+	font-size:100px;
+}
+
+.threereg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:px;
+	color:green;
+	font-size:100px;
+}
+
+.fourreg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:px;
+	color:green;
+	font-size:100px;
+}
+
+.fivereg {
+	font-family: helvetica-neue, sans-serif;
+	font-weight:px;
+	color:green;
+	font-size:100px;
+}
+
+#fontblog-layout {
+	height: 1500px;
+	width: 1500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
