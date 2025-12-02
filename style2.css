@@ -1,14 +1,16 @@
 #img1 {
 		width: 500px;
-		position:sticky;
+		position:fixed;
 		top: 500px;
+		left:0px;
 		z-index: -1;
 	}
 
 #img2 {
 		width: 500px;
-		position: sticky;
+		position: fixed;
 		top: 632px;
+		left:0px;
 		z-index: 1;
 	}
 
