@@ -1,0 +1,181 @@
+img {
+	width: 500px;
+}
+
+body {
+	background-image: url('jeanbckgrnd.jpeg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1	{
+	 font-family: helvetica-neue, sans-serif;
+	 font-size: 120px;
+	 text-align: left;
+	 letter-spacing: -2px;
+	 line-height: 130px;
+	 color: white;
+}
+
+h2 { 
+		font-family: helvetica-neue, sans-serif;
+		 color: white;
+}
+
+h3 {
+		font-family: helvetica-neue, sans-serif;
+			 color: white;
+}
+
+h4 {
+		font-family: helvetica-neue, sans-serif;
+			 color: white;
+}
+
+p {
+		width: 300px;
+		margin-left: 120px;
+		color: white;
+		z-index: 0;
+		font-family: helvetica, sans-serif;
+}
+
+.ThinFamily {
+	font-family: "helvetica-neue-lt-pro", sans-serif;
+	font-style: normal;
+	font-weight: 200;
+	font-size: 40px;
+	color: white;
+}
+
+#thinheader {
+	font-family: "helvetica-neue-lt-pro", sans-serif;
+	font-style: normal;
+	font-weight: 200;
+	font-size: 30px;
+	color: white;
+}
+
+.LightFamily {
+	font-family: "helvetica-neue-lt-pro", sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size:40px;
+	color: white;
+	display:flex;
+	justify-content: center;
+}
+
+#lightheader {
+	font-family: "helvetica-neue-lt-pro", sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size:30px;
+	color: white;
+	display:flex;
+	justify-content: left;
+}
+
+.RegFamily {
+	font-family: "helvetica-neue-lt-pro", sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size:40px;
+	color: white;
+}
+
+#regheader {
+	font-family: "helvetica-neue-lt-pro", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size:30px;
+	color: white;
+	display:flex;
+	justify-content: left;
+}
+
+.MedFamily {
+	font-family: "helvetica-neue-lt-pro", sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size:40px;
+	color: white;
+	display:flex;
+	justify-content: center;
+}
+
+#medheader {
+	font-family: "helvetica-neue-lt-pro", sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size:30px;
+	color: white;
+	display:flex;
+	justify-content: left;
+}
+
+.BoldFamily {
+	font-family: "helvetica-neue-lt-pro", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 40px;
+	color: white;
+}
+
+#boldheader {
+	font-family: "helvetica-neue-lt-pro", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size:30px;
+	color: white;
+	display:flex;
+	justify-content: left;
+}
+
+#img1 {
+		width: 500px;
+		position: sticky;
+		top: 500px;
+		z-index: -1;
+	}
+
+#img2 {
+		width: 500px;
+		position: sticky;
+		top: 632px;
+		z-index: 1;
+	}
+
+#moth1 {
+		display:flex;
+		flex-wrap: wrap;
+		justify-content:center;
+		
+}
+
+#moth2 {
+		justify-content: center;
+		display:flex;
+}
+
+#moth3 {
+		justify-content: center;
+		display:flex;
+}
+
+#moth4 {
+		justify-content: center;
+		display:flex;
+}
+
+
+
+
+
+
+
+
+
+
