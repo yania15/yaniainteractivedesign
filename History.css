@@ -150,7 +150,6 @@ p {
 		z-index: 1;
 	}
 
-
 #moth1 {
 		display:flex;
 		flex-wrap: wrap;
@@ -172,13 +171,3 @@ p {
 		justify-content: center;
 		display:flex;
 }
-
-
-
-
-
-
-
-
-
-
