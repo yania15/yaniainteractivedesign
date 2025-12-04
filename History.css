@@ -150,24 +150,29 @@ p {
 		z-index: 1;
 	}
 
-#moth1 {
-		display:flex;
-		flex-wrap: wrap;
-		justify-content:center;
-		
+.image-container {
+  display: inline-block;
+  margin: 10px;
 }
 
-#moth2 {
-		justify-content: center;
-		display:flex;
+.text-underneath {
+	font-family: "helvetica-neue-lt-pro", sans-serif;
+  display: none;
+  padding: 5px;
+  text-align: center;
+  font-size: 24px;
+  color: white;
 }
 
-#moth3 {
-		justify-content: center;
-		display:flex;
+.image-container:hover .text-underneath {
+  display: block;
 }
 
-#moth4 {
-		justify-content: center;
-		display:flex;
-}
+
+
+
+
+
+
+
+
