@@ -77,7 +77,6 @@ body {
             gap: 6px;
         }
 
-        /* If Font Awesome isn't loaded, the <i> has no visible glyphs; keep text visible */
         .button i {
             display: none;
         }
