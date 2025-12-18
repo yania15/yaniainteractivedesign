@@ -26,6 +26,36 @@ background-size: cover;
 background-attachment: fixed;
 }
 
+#stitchesClick {
+  position: relative;
+  display: inline-block;
+  width: 500px;
+}
+
+#stitchesClick img {
+  display: block;
+}
+
+#stitchesLabel {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  padding: 40px; /* adjust to taste */
+  box-sizing: border-box;
+  object-fit: contain;
+  object-position: center;
+
+  pointer-events: none;
+}
+
+#stitchesLabel.hidden {
+  display: none;
+}
+
 h1	{
 	 font-family: helvetica-neue, sans-serif;
 	 font-size: 120px;
@@ -55,10 +85,6 @@ p {
 	color: white;
 }
 
-#cdplayer {
-	height: 500px;
-}
-
 p {
 		width: 300px;
 		margin-left: 120px;
@@ -67,9 +93,15 @@ p {
 		font-family: helvetica, sans-serif;
 	}
 
-#helvetica { 
-	justify-content: center center;
-	display:flex;
+#xray {
+  position: relative;
+  display: inline-block;
+  margin: 40px;
+}
+
+#helvetica {
+  display: block; 
+  width: 500px;
 }
 
 .image-container {
@@ -83,7 +115,6 @@ font-family: "helvetica-neue-lt-pro", sans-serif;
   padding: 5px;
   text-align: center;
   justify-content:center;
-  wrap:flex;
   font-size: 24px;
   color: white;
 }
@@ -92,24 +123,120 @@ font-family: "helvetica-neue-lt-pro", sans-serif;
   display: block;
 }
 
-#helvetica {
-  position: relative;
-  width: 500px;
-  height: 500px;
-  margin: 40px;
-}
-
-#helvetica img {
+#helvetica4 {
   position: absolute;
   top: 0;
   left: 0;
   width: 500px;
+  opacity: 0;
+  transition: opacity 150ms ease;
+  pointer-events: none;
 }
 
-#helvetica4 {
-  clip-path: circle(0px at 0 0);
-  transition: clip-path 0s;
-  pointer-events: none;
+#xray:hover #helvetica4 {
+  opacity: 1;
+}
+
+#xray:hover #helvetica {
+  opacity: 0;
+}
+
+#fencebckgrnd {
+background-image: url('brokenfence1.png');
+background-repeat: no-repeat;
+background-position: left;
+background-size: cover;
+background-attachment: fixed;
+}
+
+#musicnote1 {
+	font-family: helvetica, sans-serif;
+	font-size: 50px;
+	transition: transform 1s ease;
+	position: absolute;
+	left:100px;
+	top:1340px;
+	color: red;
+}
+
+#musicnote1:hover {
+	transform: rotate(360deg);
+}
+
+#musicnote2 {
+	font-family: helvetica, sans-serif;
+	font-size: 50px;
+	transition: transform 1.5s ease;
+	position: absolute;
+	left:200px;
+	top:1380px;
+	color: red;
+}
+
+#musicnote2:hover {
+	transform: rotate(360deg);
+}
+
+#musicnote3 {
+	font-family: helvetica, sans-serif;
+	font-size: 50px;
+	transition: transform 2s ease;
+	position: absolute;
+	left:440px;
+	top:1550px;
+	color:red;
+}
+
+#musicnote3:hover {
+	transform: rotate(360deg);
+}
+
+#musicnote4 {
+	font-family: helvetica, sans-serif;
+	font-size: 50px;
+	transition: transform 2.5s ease;
+	position: absolute;
+	left: 420px;
+	top: 1650px;
+	color:red;
+}
+
+#musicnote4:hover {
+	transform: rotate(360deg);
+}
+
+#album1 {
+	width:100px;
+	transition: width 2s, height 4s;
+}
+#album1:hover {
+	 width: 300px;
+ 	 height: 300px;
+}
+
+#album2 {
+	width:100px;
+	transition: width 2s, height 4s;
+}
+
+#album2:hover {
+ 	 width: 300px;s
+  	height: 300px;
+}
+
+#albumexplanation {
+	font-family: "helvetica-neue-lt-pro", sans-serif;
+	font-size: 50px;
+	color:aliceblue
+}
+
+#stage {
+	height: 200px;
+	border-radius: 0%;
+	background-color:black;
+	position: relative;
+
+	box-shadow: 70px 30px 30px black;
 }
 
 
